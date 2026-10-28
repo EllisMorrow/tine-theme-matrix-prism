@@ -15,6 +15,8 @@
 
 Matrix · Prism pairs a light and a dark reading palette inspired by the Matrix preset, with independently adapted Tine surfaces, links and highlights.
 
+Explore the full [Prism theme gallery](https://github.com/martinkoutecky/tine/discussions/786) to compare all 29 themes in light and dark modes.
+
 ### Dark mode
 
 ![Matrix · Prism in Tine dark mode](docs/matrix-dark.png)
